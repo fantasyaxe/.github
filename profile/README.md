@@ -9,6 +9,35 @@
     </b>
 </p>
 
+<H2 align="center">-==[ Инструментарий ]==-</H2>
+
+<table align="center">
+    <tr>
+        <th>Name
+        <th>Dev-Status
+        <th>URL
+        <th>Description
+    </tr>
+    <tr>
+        <th>DevScripts
+        <th>In dev
+        <th><a target="_blank" href="https://github.com/Re-Minecraft/DevScripts">URL</a>
+        <th align="left">Скрипты для развертывания проекта, а так же его компиляции
+    </tr>
+    <tr>
+        <th>SpecialSource
+        <th>Finished
+        <th><a target="_blank" href="https://github.com/Re-Minecraft/SpecialSource">URL</a>
+        <th align="left">Форк SpecialSource, нужный чисто в качестве зеркала
+    </tr>
+    <tr>
+        <th>Dev-Road
+        <th>???
+        <th><a target="_blank" href="https://github.com/Re-Minecraft/Dev-Road">URL</a>
+        <th align="left">Мне лень возиться с Trello. Легче всё добавить в один репозиторий.
+    </tr>
+</table>
+
 <H1 align="center">-==[ Socials ]==-</H1>
 
 <p align="center">
@@ -19,3 +48,7 @@
   <a href="https://t.me/LOWcitory" target="_blank">
     <img alt="My Telegram" src="https://img.shields.io/badge/P._Violette-white?style=for-the-badge&logo=telegram&logoColor=white&logoSize=64&label=%20&labelColor=00aeff&color=242323&link=https%3A%2F%2Ft.me%2FLOWcitory"></a>
 </p>
+
+---
+
+<H6 align="center">NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT</H6>
