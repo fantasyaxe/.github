@@ -63,7 +63,7 @@
     <tr>
         <th>DECADENCE
         <th>In dev
-        <th><a target="_blank" href="https://github.com/Re-Minecraft/khutor217">URL</a>
+        <th><a target="_blank" href="https://github.com/Re-Minecraft/Decadence">URL</a>
         <th align="left">Не совсем относится к этому проекту, но я хз, куда ещё это запихнуть.<br>Это.. Просто лобби сервер
     </tr>
 </table>
