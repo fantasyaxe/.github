@@ -28,56 +28,56 @@
     <tr>
         <th>DevScripts
         <th>Finished
-        <th><a target="_blank" href="https://github.com/MCRebooted/DevScripts">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/DevScripts">URL</a>
         <th align="left">Скрипты для декомпиляции/компиляции игры. Они поддерживают любые версии, для которых у вас есть маппинги в нужном формате. И для которых известны нужные библиотеки.
     </tr>
     <tr>
         <th>mine-mappings
         <th>In progress
-        <th><a target="_blank" href="https://github.com/MCRebooted/mine-mappings">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/mine-mappings">URL</a>
         <th align="left">Маппинги для версий, с которыми я работаю.
     </tr>
     <tr>
         <th>BuilderScripts
         <th>Finished
-        <th><a target="_blank" href="https://github.com/MCRebooted/BuilderScripts">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/BuilderScripts">URL</a>
         <th align="left">Просто репозиторий для скриптов сборки
     </tr>
     <tr>
         <th>MirrorsList
         <th>Finished
-        <th><a target="_blank" href="https://github.com/MCRebooted/MirrorsList">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/MirrorsList">URL</a>
         <th align="left">Чисто для удобства
     </tr>
     <tr>
         <th>RePath
         <th>In progress
-        <th><a target="_blank" href="https://github.com/MCRebooted/RePath">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/RePath">URL</a>
         <th align="left">Система патчей.
     </tr>
     <tr>
         <th>SpecialSource
         <th>Finished
-        <th><a target="_blank" href="https://github.com/MCRebooted/SpecialSource">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/SpecialSource">URL</a>
         <th align="left">Форк SpecialSource, нужный чисто в качестве зеркала
     </tr>
     <tr>
         <th>Dev-Road
         <th>Cannot be finished lol
-        <th><a target="_blank" href="https://github.com/MCRebooted/Dev-Road">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/Dev-Road">URL</a>
         <th align="left">Мне лень возиться с Trello. Легче всё добавить в один репозиторий.
     </tr>
     <tr>
         <th>HysteriaEngine
         <th>In progress
-        <th><a target="_blank" href="https://github.com/MCRebooted/khutor217">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/khutor217">URL</a>
         <th align="left">Графический движок на LWGJL-Vulkan 
 			<br> (Изначально предназначался для другой игры, но вроде как его можно адаптировать и под эту)
     </tr>
     <tr>
         <th>Decadence
         <th>In progress
-        <th><a target="_blank" href="https://github.com/MCRebooted/Decadence">URL</a>
+        <th><a target="_blank" href="https://github.com/fantasyaxe/Decadence">URL</a>
         <th align="left"> Серверное ядро (Подобие Bukkit, но для этого проекта)
     </tr>
 </table>
