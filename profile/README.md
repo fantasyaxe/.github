@@ -23,85 +23,102 @@
         <th>Name
         <th>Status
         <th>URL
+        <th>Why it need?
         <th>Description
     </tr>
     <tr>
         <th>DevScripts
         <th>Finished
         <th><a target="_blank" href="https://github.com/fantasyaxe/DevScripts">URL</a>
-        <th align="left">Скрипты для декомпиляции/компиляции игры. Они поддерживают любые версии, для которых у вас есть маппинги в нужном формате. И для которых известны нужные библиотеки.
-    </tr>
+        <th align="center">QOL
+		<th align="left">Scripts for decompile/compile game.
+			<br> Support all versions if they have mappings in supported format.
+			<br> Just use F_CORE plz
+	</tr>
     <tr>
         <th>mine-mappings
         <th>In progress
         <th><a target="_blank" href="https://github.com/fantasyaxe/mine-mappings">URL</a>
-        <th align="left">Маппинги для версий, с которыми я работаю.
+        <th align="center">Deobfuscation
+        <th align="left">Mappings for main versions 
+			<br> (For this project)
     </tr>
     <tr>
         <th>BuilderScripts
         <th>Finished
         <th><a target="_blank" href="https://github.com/fantasyaxe/BuilderScripts">URL</a>
-        <th align="left">Просто репозиторий для скриптов сборки
-    </tr>
+        <th align="center">Mirror
+        <th align="left">Build scripts (`build.gradle.kts` etc)
+	</tr>
     <tr>
         <th>MirrorsList
         <th>Finished
         <th><a target="_blank" href="https://github.com/fantasyaxe/MirrorsList">URL</a>
-        <th align="left">Чисто для удобства
+        <th align="center">QOL (Mirror)
+        <th align="left">---
     </tr>
     <tr>
         <th>RePath
         <th>In progress
         <th><a target="_blank" href="https://github.com/fantasyaxe/RePath">URL</a>
-        <th align="left">Система патчей.
+        <th align="center">PatchSystem
+        <th align="left">Just use F_CORE plz
     </tr>
     <tr>
         <th>SpecialSource
         <th>Finished
         <th><a target="_blank" href="https://github.com/fantasyaxe/SpecialSource">URL</a>
-        <th align="left">Форк SpecialSource, нужный чисто в качестве зеркала
+        <th align="center">Mirror
+        <th align="left">---
     </tr>
     <tr>
         <th>Dev-Road
         <th>Cannot be finished lol
         <th><a target="_blank" href="https://github.com/fantasyaxe/Dev-Road">URL</a>
-        <th align="left">Мне лень возиться с Trello. Легче всё добавить в один репозиторий.
+        <th align="center">DevRoad...
+        <th align="left">F*ck Trello!
     </tr>
     <tr>
         <th>HysteriaEngine
         <th>In progress
         <th><a target="_blank" href="https://github.com/fantasyaxe/khutor217">URL</a>
-        <th align="left">Графический движок на LWGJL-Vulkan 
-			<br> (Изначально предназначался для другой игры, но вроде как его можно адаптировать и под эту)
-    </tr>
+        <th align="center">Render Engine
+        <th align="left">Graphic renderer ob LWGJL-Vulkan 
+	</tr>
     <tr>
         <th>Decadence
         <th>In progress
         <th><a target="_blank" href="https://github.com/fantasyaxe/Decadence">URL</a>
-        <th align="left"> Серверное ядро (Подобие Bukkit, но для этого проекта)
+        <th align="center">For servers
+        <th align="left"> Server core like Bukkit etc
     </tr>
     <tr>
         <th>Punch!
         <th>In progress
         <th><a target="_blank" href="https://github.com/fantasyaxe/Punch">URL</a>
-        <th align="left"> Аналог velocity на Rust с попыткой в защиту от ботов
+        <th align="center">QOL
+        <th align="left"> Test server core based on rust
+			<br> Packet based bot protection
+			<br> Settuping like velocity
     </tr>
     <tr>
         <th>F_CORE
         <th>Early dev
         <th><a target="_blank" href="https://github.com/fantasyaxe/F_Core">URL</a>
-        <th align="left"> Плагин для Gradle, нужный чисто для удобства
-			<br> Содержит скрипты декомпиляции, систему патчей и тд
+        <th align="center">QOL
+        <th align="left"> Main Gradle plugin for
+			<br> Decompile/Compile/Patch MC
     </tr>
     <tr>
         <th>Mushroom
         <th>Early-Early dev
         <th><a target="_blank" href="https://github.com/fantasyaxe/mushroom">URL</a>
-        <th align="left"> Плагин для IDEA IDE, для разработки плагинов/модов/форков для данного проекта.
+        <th align="center">QOL
+        <th align="left"> IDEA IDE plugin for develop forks/mods/plugins for this project
     </tr>
 </table>
 
-<H2 align="center">-==[ Пк на котором ведется разработка ]==-</H2>
+<H2 align="center">-==[ Developer pc stats ]==-</H2>
 
 ```json
 CPU: Ryzen 3 1200 3.50GHz
