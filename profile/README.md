@@ -86,6 +86,19 @@
         <th><a target="_blank" href="https://github.com/fantasyaxe/Punch">URL</a>
         <th align="left"> Аналог velocity на Rust с попыткой в защиту от ботов
     </tr>
+    <tr>
+        <th>F_CORE
+        <th>Early dev
+        <th><a target="_blank" href="https://github.com/fantasyaxe/F_Core">URL</a>
+        <th align="left"> Плагин для Gradle, нужный чисто для удобства
+			<br> Содержит скрипты декомпиляции, систему патчей и тд
+    </tr>
+    <tr>
+        <th>Mushroom
+        <th>Early-Early dev
+        <th><a target="_blank" href="https://github.com/fantasyaxe/mushroom">URL</a>
+        <th align="left"> Плагин для IDEA IDE, для разработки плагинов/модов/форков для данного проекта.
+    </tr>
 </table>
 
 <H2 align="center">-==[ Пк на котором ведется разработка ]==-</H2>
