@@ -10,6 +10,7 @@
     <b>
    		Мучаю старые версии майнкрафта
 		<br> По сути это что-то типо проверки своих навыков копипаста кода
+		<br> <a target="_blank" href="https://raw.githubusercontent.com/fantasyaxe/FANTASY_AXE-LICENSE/refs/heads/main/LICENSE">Активно юзаемая лицензия (LICENSE)</a>
 		<br><br> For Mojang Studios: I want to work in the Mojang :D
     </b>
 </p>
