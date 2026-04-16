@@ -9,6 +9,7 @@
 <p align="center" style="font-size: 15px">
     <b>
    		Мучаю старые версии майнкрафта
+		<br> По сути это что-то типо проверки своих навыков копипаста кода
 		<br><br> For Mojang Studios: I want to work in the Mojang :D
     </b>
 </p>
